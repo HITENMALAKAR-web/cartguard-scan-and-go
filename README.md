@@ -2,7 +2,8 @@
 
 > An independent vision layer that watches what goes into a customer's basket and checks whether the mobile cart (the bill) matches.
 
-**Team:** TODO · **Hackathon:** TODO · **Demo video:** TODO
+**Team:** CARTGUARD
+
 
 ## The problem
 Mobile Scan-and-Go lets customers skip the checkout queue, but it relies on them scanning every item. Missed scans (honest mistakes or not) become losses for the store, and forcing everyone through a traditional checkout removes the convenience.
