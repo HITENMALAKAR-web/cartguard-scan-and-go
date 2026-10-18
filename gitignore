@@ -1,0 +1,15 @@
+# weights: only the final model is tracked
+*.pt
+!models/best.pt
+
+# training runs, dataset, local media
+runs/
+grocery_datset/
+*.mp4
+*.avi
+
+# notebooks / IDE / python
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+.venv/
