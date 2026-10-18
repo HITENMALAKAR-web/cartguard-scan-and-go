@@ -44,6 +44,7 @@ These are detector metrics on the dataset's validation images, **not** end-to-en
 ```
 product: 180_tissue x1 added to cart but not present at checkout
 camera predicted higher bill than checkout by 60 and {'180_tissue': 1} were detected by machine but not present at checkout
+False
 ```
 
 ## Repository layout
