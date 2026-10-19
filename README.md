@@ -31,23 +31,6 @@ Camera -> YOLOv8 person model ──┘          |                          |
 - A pickup is credited to the person most often near the item that entered the zone. A put-back is taken from whoever holds that item, or from the nearest person to the basket if several do.
 - Yellow lines on the live view connect each product to its linked person, and the per-person running bill is shown on screen.
 
-## Demo
-
-**Basket zone.** The area where products count as "in the basket".
-
-![Basket zone](demo/01_basket_zone.png)
-
-**Live detection and person linking.** Green = inside the zone (counted), magenta = outside, yellow line = product linked to a person.
-
-![Detections](demo/02_detections.png)
-
-**Pickup / put-back events and the final per-person basket**
-
-![Console output](demo/03_console.png)
-
-**Mismatch flagged against the checkout bill**
-
-![Mismatch](demo/04_mismatch.png)
 
 ## Results
 
