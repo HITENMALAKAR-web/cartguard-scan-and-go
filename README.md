@@ -98,5 +98,8 @@ To use a recorded clip instead of the webcam, replace `cv2.VideoCapture(0)` with
 - Evaluate end to end on recorded shopping sessions.
 
 ## Dataset and licence
-- Dataset: TODO (name, source link, licence).
+[- Dataset: TODO (name, source link, licence).](https://universe.roboflow.com/groceries-jxjfd/grocery-goods
+
+Provided by a Roboflow user
+License: Public Domain)
 - This project uses [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics), which is licensed under AGPL-3.0. Choose this repository's licence accordingly. Licence: TODO.
